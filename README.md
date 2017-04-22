@@ -24,4 +24,4 @@ This works because I've stored my public keys on [Keybase](https://keybase.io).
 
 Edit this file and add your name below. Sign the commit and send me a PR! :smile:
 
-* Nate was here - https://keybase.io/nbarbettini
+* Nate was here :sunglasses: - https://keybase.io/nbarbettini
