@@ -8,13 +8,19 @@ You can see the Verified (signed) commits in the [commit log](https://github.com
 
 To view the signatures locally, run:
 
-```
+```sh
 git verify-commit <commit hash>
+```
+
+or
+
+```sh
+git log --show-signature
 ```
 
 To verify that the commits are signed by the person they say they are, you'll need to import that person's public key into your local keyring. To import mine, for example,
 
-```
+```sh
 curl https://keybase.io/nbarbettini/pgp_keys.asc | gpg --import
 ```
 
