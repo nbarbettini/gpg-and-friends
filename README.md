@@ -32,3 +32,4 @@ Edit this file and add your name below. Sign the commit and send me a PR! :smile
 
 * Nate was here :sunglasses: - https://keybase.io/nbarbettini
 * Micah was here :skull: - https://keybase.io/afitnerd
+* Ravi was here :bike: - https://keybase.io/ravidontharaju 
